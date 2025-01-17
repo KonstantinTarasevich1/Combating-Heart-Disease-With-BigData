@@ -1,8 +1,10 @@
 Combating Cardiovascular Diseases with Big Data
 
+
 Overview
 
 This repository demonstrates the application of Big Data and machine learning techniques to analyze, predict, and mitigate cardiovascular diseases. By leveraging data preprocessing, visualization, and predictive modeling, the project provides actionable insights into heart health.
+
 
 Features
 
@@ -12,6 +14,7 @@ Exploratory Data Analysis (EDA): Visualizing trends and patterns related to card
 
 Machine Learning Models: Implementing predictive algorithms like Logistic Regression and Random Forest to identify individuals at high risk for cardiovascular diseases.
 
+
 Technologies Used
 
 Programming Languages: Python
@@ -19,6 +22,7 @@ Programming Languages: Python
 Libraries: Pandas, NumPy, Matplotlib
 
 Machine Learning Algorithms: Logistic Regression, Random Forest
+
 
 Dataset
 
